@@ -1,3 +1,5 @@
+//Ques - find the sum of minimum and maximum elements of the array :-
+
 #include<stdio.h>
 #include<stdlib.h>
 
