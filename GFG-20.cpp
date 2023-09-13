@@ -2,6 +2,7 @@
 #include<algorithm>
 using namespace std;
 
+//Ques- find the sum of middle elements after merging the two arrays :-
 
 int main(){
 
